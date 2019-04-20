@@ -10,7 +10,7 @@ https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-pytho
 ## Importing the Required Libraries
 
 - install the programs on the 'requirements.txt' file
-- since the program takes a really long time to train and uses alot of RAM, I have decided to train this model in Colab.
+- since the program takes a really long time to train and uses a lot of RAM, I have decided to train this model in Colab.
 
 ## Run the code that makes the model train itself
 
