@@ -7,7 +7,9 @@ https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-pytho
 
 # Dependencies
 install pip3
-install jupyter notebook
+pip3 install keras
+pip3 install numpy
+pip3 install tensorflow
 
 
 # Introduction
