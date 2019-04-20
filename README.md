@@ -5,15 +5,23 @@ See this article for a summary of the algorithm and run instructions.
 
 https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-python-and-keras/
 
-# Dependencies
+# Instructions
 
-*install pip3
+## Importing the Required Libraries
 
-*pip3 install keras
+- install pip3
 
-*pip3 install numpy
+- pip3 install keras
 
-*pip3 install tensorflow
+- pip3 install numpy
+
+- pip3 install tensorflow
+
+- install matplot (python3 -m pip install -U matplotlib)
+
+- pip3 install importlib
+
+## Run the code that makes the model train itself
 
 
 # Introduction
