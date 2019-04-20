@@ -9,17 +9,8 @@ https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-pytho
 
 ## Importing the Required Libraries
 
-- install pip3
-
-- pip3 install keras
-
-- pip3 install numpy
-
-- pip3 install tensorflow
-
-- install matplot (python3 -m pip install -U matplotlib)
-
-- pip3 install importlib
+- install the programs on the 'requirements.txt' file
+- since the program takes a really long time to train and uses alot of RAM, I have decided to train this model in Colab.
 
 ## Run the code that makes the model train itself
 
