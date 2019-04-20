@@ -6,7 +6,8 @@ See this article for a summary of the algorithm and run instructions.
 https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-python-and-keras/
 
 # Dependencies
-Download anaconda: https://www.anaconda.com/distribution/#download-section
+install pip3
+install jupyter notebook
 
 
 # Introduction
